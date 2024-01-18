@@ -13,5 +13,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  base: '/'
+  base: 'https://creative-mousse-88ed86.netlify.app'
 })
