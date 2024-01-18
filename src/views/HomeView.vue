@@ -69,7 +69,7 @@ function tab(id) {
 
 <template>
   <div>
-    <div class="bg-blue-300 font-bold py-2">
+    <div class="bg-blue-300 dark:bg-slate-300 font-bold py-2">
       <button class="ml-8" @click="signIn">Admin</button>
     </div>
 
