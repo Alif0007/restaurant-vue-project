@@ -233,8 +233,8 @@ function tab(id) {
         <div v-else-if="tabThree" class="tab-3">
           <TabThree />
         </div>
-        <div v-else-if="tabFour" class="tab-4">tab 4</div>
-        <div v-else class="tab-5">tab 5</div>
+        <div v-else-if="tabFour" class="tab-4"><TabThree /></div>
+        <div v-else class="tab-5"><TabThree /></div>
       </div>
     </div>
   </div>
