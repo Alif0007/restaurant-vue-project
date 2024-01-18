@@ -236,7 +236,6 @@ function tab(id) {
         <div v-else-if="tabFour" class="tab-4">tab 4</div>
         <div v-else class="tab-5">tab 5</div>
       </div>
-      <button @click="signIn">login</button>
     </div>
   </div>
 </template>
