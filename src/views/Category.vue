@@ -40,7 +40,9 @@ function clickPopUp(id) {
         <div class="flex flex-col w-96">
           <div>
             <select class="p-4 mb-4 rounded border-gray-900 border w-full">
-              <option value="" disabled selected>Select Your Category</option>
+              <option value="" disabled selected hidden>
+                Select Your Category
+              </option>
               <option
                 v-for="(item, index) in categoris"
                 :key="index"

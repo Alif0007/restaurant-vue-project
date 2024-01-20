@@ -24,14 +24,14 @@ function login() {
         class="p-6 mb-4 rounded border-gray-900 border mt-8"
         type="text"
         v-model="username"
-        placeholder="Enter Username"
+        placeholder="Enter Username (admin)"
         name="uname"
         required
       />
       <input
         class="p-6 mb-4 rounded border-gray-900 border"
         type="password"
-        placeholder="Enter Password"
+        placeholder="Enter Password (admin)"
         v-model="password"
         name="uname"
         required

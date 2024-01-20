@@ -3,8 +3,8 @@
 <template>
   <div class="flex w-full">
     <img
-      class="w-28 pr-2"
-      src="../assets/Freshly_baked_pizza_with_a_cut_slice_isolated_-4-removebg-preview.png"
+      class="w-28 h-20 pr-2"
+      src="https://t3.ftcdn.net/jpg/06/01/07/12/360_F_601071205_jxLMJzJKNPM1g5ciDuW32Nj8vO5ltNhn.jpg"
       alt=""
     />
     <div>
